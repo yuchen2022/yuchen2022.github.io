@@ -27,7 +27,7 @@ body{
 
 .logo1{
   font-family: cursive;
-  font-size: x-large;
+  font-size: xx-large;
   font-weight: bolder;
   color: darkblue;
   
@@ -54,4 +54,19 @@ overflow: inherit;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-size: larger;
   font-weight: bold;
+}
+
+.form-bg{
+background-image: linear-gradient(to bottom right, rgba(255,238,225,1), rgb(176, 233, 233));
+}
+.apointment-button{
+  width: 90%;
+  background-color:darkblue;
+}
+.welcome{
+  margin-top: 3rem;
+  color: rgb(57, 224, 224);
+  font-weight: bold;
+  font-size: larger;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
