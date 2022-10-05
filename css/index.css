@@ -29,7 +29,8 @@ body{
   font-family: cursive;
   font-size: xx-large;
   font-weight: bolder;
-  color: darkblue;
+  color: rgba(13,36,206,1);
+  text-shadow: 3px 3px rgba(105,123,183,1) ;
   
 }
 .logo2{
@@ -71,8 +72,17 @@ background-image: linear-gradient(to bottom right, rgba(255,238,225,1), rgb(176,
   font-size: larger;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-.Dc-card{
+.Dc-heading-card{
+ 
+  color: darkblue;
+  font-weight: 600;
+  margin: 10px;
 
-  
-
+}
+.icons{
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 11.5px ;
+  padding-right: 11.5px ;
+  background-color: rgb(57, 224, 224);
 }
