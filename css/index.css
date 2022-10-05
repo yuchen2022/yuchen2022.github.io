@@ -46,7 +46,8 @@ body{
 
 }
 .cards-bg {
-background-color: rgb(213, 237, 248);
+  
+background-color: rgb(219, 237, 245);
 overflow: inherit;
 
 }
@@ -69,4 +70,9 @@ background-image: linear-gradient(to bottom right, rgba(255,238,225,1), rgb(176,
   font-weight: bold;
   font-size: larger;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.Dc-card{
+
+  
+
 }
